@@ -1,0 +1,1 @@
+# Akkaz store service
